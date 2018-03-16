@@ -1,0 +1,26 @@
+{
+  "name": "credit-check",
+  "version": "1.0.0",
+  "description": "A sample server that handles credit card validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Athaman/credit-check.git"
+  },
+  "keywords": [
+    "node.js",
+    "express.js"
+  ],
+  "author": "Keone Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Athaman/credit-check/issues"
+  },
+  "homepage": "https://github.com/Athaman/credit-check#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
