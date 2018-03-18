@@ -1,14 +1,12 @@
 # Credit Checker
 
-A technical test product for a job application build to validate credit card numbers server side using the Luhn formula.
+A technical test product for a job application built to validate credit card numbers server side using the Luhn formula.
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
-
-What things you need to install the software and how to install them
 
 ```
 Node.js (built using v9.5.0)
